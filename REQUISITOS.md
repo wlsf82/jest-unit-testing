@@ -20,6 +20,6 @@ Já se a lista tiver mais de um item, deve-se fazer o cálculo acima para cada i
 - O percentual de comissão é de 10% para vendas entre $2000,00 e $4999,99
 - O percentual de comissão é de 15% para vendas a partir de $5000,00
 
-### Comissão exclusiva
+### Comissão Especial
 
 - Caso a lista possua ao menos um produto com identificador único XP-0101, o percentual de comissão é de 20%
