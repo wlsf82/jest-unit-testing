@@ -5,5 +5,4 @@ module.exports = function(items) {
   }).reduce((a, b) => a + b, 0)
 
   return totalPrice * .05
-
 }
