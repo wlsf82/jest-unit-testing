@@ -1,0 +1,19 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Projeto demo para a live 7 da playlist JavaScript para QAs do canal TAT no YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "unit-testing",
+    "js-para-qas",
+    "talking-about-testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
