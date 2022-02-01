@@ -38,7 +38,7 @@ it('calcula comissão quando há mais de um item na lista', () => {
 
 it('calcula comissão de 10%', () => {
   const resultadoAtual = calculaComissaoDeVenda([{
-    id: 'PROD-123',
+    id: 'PROD-789',
     precoUnitario: 2000,
     quantidadeVendida: 1
   }])
